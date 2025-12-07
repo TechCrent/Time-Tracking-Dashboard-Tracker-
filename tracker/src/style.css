@@ -25,4 +25,15 @@
   --font-rubik-bold: Rubik-bold, "sans-serif";
   --font-rubik-light: Rubik-light, "sans-serif";
   --font-rubik-semibold: Rubik-semibold, "sans-serif";
+
+  --color-lighter-background: #6b6fb8;
+  --color-background: #1d204b;
+
+  --color-card1: #5746e9;
+  --color-card2: #ff8b64;
+  --color-card3: #56c2e6;
+  --color-card4: #ff5e7d;
+  --color-card5: #4bcf83;
+  --color-card6: #7235d1;
+  --color-card7: #f1c75b;
 }
