@@ -1,1 +1,28 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: Rubik-bold;
+  src: url("../public/assets/fonts/Rubik-Bold.ttf");
+}
+
+@font-face {
+  font-family: Rubik-light;
+  src: url("../public/assets/fonts/Rubik-Light.ttf");
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url("../public/assets/fonts/Rubik-Regular.ttf");
+}
+
+@font-face {
+  font-family: Rubik-semibold;
+  src: url("../public/assets/fonts/Rubik-SemiBold.ttf");
+}
+
+@theme {
+  --font-rubik: Rubik, "sans-serif";
+  --font-rubik-bold: Rubik-bold, "sans-serif";
+  --font-rubik-light: Rubik-light, "sans-serif";
+  --font-rubik-semibold: Rubik-semibold, "sans-serif";
+}
